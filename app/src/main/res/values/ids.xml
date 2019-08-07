@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="save_menu" type="id"/>
+    <item name="tvdeals" type="id"/>
+    <item name="delete_menu" type="id"/>
+</resources>
